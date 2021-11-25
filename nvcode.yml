@@ -294,20 +294,20 @@ highlights:
   GitSignsChange: "#0C7D9D"
   GitSignsDelete: "#94151B"
 
-  # LspDiagnosticsUnderlineError: "error_red"
-  # LspDiagnosticsUnderlineWarning: "orange"
-  # LspDiagnosticsUnderlineInformation: "yellow"
-  LspDiagnosticsUnderlineHint: "grey_blue"
+  DiagnosticUnderlineError: "- - c error_red"
+  DiagnosticUnderlineWarn: "- - c warning_orange"
+  DiagnosticUnderlineInfo: "- - c info_yellow"
+  DiagnosticUnderlineHint: "- - c grey_blue"
 
-  LspDiagnosticsSignError: "error_red"
-  LspDiagnosticsSignWarning: "warning_orange"
-  LspDiagnosticsSignInformation: "info_yellow"
-  LspDiagnosticsSignHint: "vivid_blue"
+  DiagnosticSignError: "error_red"
+  DiagnosticSignWarn: "warning_orange"
+  DiagnosticSignInfo: "info_yellow"
+  DiagnosticSignHint: "vivid_blue"
 
-  LspDiagnosticsVirtualTextError: "error_red"
-  LspDiagnosticsVirtualTextWarning: "warning_orange"
-  LspDiagnosticsVirtualTextInformation: "info_yellow"
-  LspDiagnosticsVirtualTextHint: "vivid_blue"
+  DiagnosticVirtualTextError: "error_red"
+  DiagnosticVirtualTextWarn: "warning_orange"
+  DiagnosticVirtualTextInfo: "info_yellow"
+  DiagnosticVirtualTextHint: "vivid_blue"
 
 
   QuickScopePrimary: "#00C7DF - u"
