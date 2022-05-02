@@ -314,7 +314,7 @@ highlights:
   QuickScopeSecondary: "#eF5F70 - u"
 
   MatchWord: "- - u"
-  MatchParen: "- - u"
+  MatchParen: "#eF5F70"
   MatchWordCur: "- - u"
   MatchParenCur: "- - u"
 
